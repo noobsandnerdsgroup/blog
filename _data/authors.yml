@@ -6,7 +6,7 @@ riza:
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/scrungo.jpg"
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-youtube"
       url: "https://www.youtube.com/@Gremlin982"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
