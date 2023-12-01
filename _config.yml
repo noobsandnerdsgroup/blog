@@ -57,21 +57,16 @@ plugins:
 
 author:
   name   : "Noobs&Nerds Group"
-  avatar : "/assets/images/noob.jpg"
+  avatar : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/noob.png"
   bio    : "Our mission is to have fun, document the techinical parts, then archive it for so people can have fun with in the future!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://noobsandnerds.net"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
