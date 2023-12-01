@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
-Riza:
-  name        : "riza"
+riza:
+  name        : "Riza"
   bio         : "Noobs&Nerds Owner"
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/scrungo.jpg"
   links:
@@ -12,8 +12,8 @@ Riza:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Gremlin"
 
-CapPoot:
-  name        : "cappoot"
+cappoot:
+  name        : "CapPoot"
   bio         : "I’m a silly goober whose passion is only outshined by Riza <3. If need be, I’ll give guidance and kind words to help you anyway I can!"
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/cappoot.jpg"
   links:
