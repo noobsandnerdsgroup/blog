@@ -60,7 +60,7 @@ author:
   avatar : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/noob.png"
   bio    : "Our mission is to have fun, document the techinical parts, then archive it for so people can have fun with in the future!"
   links:
-    - label: "Website"
+    - label: "Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://noobsandnerds.net"
     - label: "GitHub"
