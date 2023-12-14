@@ -2,7 +2,7 @@
 
 riza:
   name        : "Riza"
-  bio         : "Noobs&Nerds Owner, "
+  bio         : "Noobs&Nerds Owner"
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/scrungo.jpg"
   links:
    - label: "Website"
