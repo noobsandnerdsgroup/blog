@@ -2,15 +2,12 @@
 
 riza:
   name        : "Riza"
-  bio         : "Noobs&Nerds Owner"
+  bio         : "Noobs&Nerds Owner, "
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/scrungo.jpg"
   links:
-    - label: "YouTube"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.youtube.com/@Gremlin982"
-    - label: "GitHub"
+   - label: "Website"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Gremlin982"
+      url: "https://gremlin.neocities.org/"
 
 cappoot:
   name        : "CapPoot"
