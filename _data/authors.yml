@@ -1,13 +1,16 @@
 # /_data/authors.yml
 
 riza:
-  name        : "Riza"
+  name        : "Riza (Gremlin)"
   bio         : "Noobs&Nerds Owner"
   avatar      : "https://raw.githubusercontent.com/noobsandnerdsgroup/blog/master/assets/images/scrungo.jpg"
   links:
    - label: "Website"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-link"
       url: "https://gremlin.neocities.org/"
+   - label: "YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/@Gremlin982"
 
 cappoot:
   name        : "CapPoot"
