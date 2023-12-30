@@ -52,14 +52,10 @@ sudo nano /etc/apt/sources.list
 
 - Paste these lines of text into the document
 
- deb http://deb.debian.org/debian bullseye main contrib non-free
- deb-src http://deb.debian.org/debian bullseye main contrib non-free
- 
- deb http://deb.debian.org/debian-security/ bullseye-security main contrib non-free
- deb-src http://deb.debian.org/debian-security/ bullseye-security main contrib non-free
- 
- deb http://deb.debian.org/debian bullseye-updates main contrib non-free
- deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
+deb http://deb.debian.org/debian bookworm main non-free-firmware
+deb http://deb.debian.org/debian bookworm-updates main non-free-firmware
+deb http://deb.debian.org/debian-security bookworm-security main non-free-firmware
+
 
 - Next press ctrl+x, then press y, and then press enter
 
