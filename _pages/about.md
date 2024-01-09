@@ -12,5 +12,3 @@ Our goal is to help netizens and maybe teach them a thing or two along the way.
 
 [Our Discord Server](https://discord.gg/Rk9EuJkZ7z)
 
-Email: noobsandnerdsmail@gmail.com
-
